@@ -10,7 +10,7 @@ get_header(); ?>
 
 
 <section class="header-img">
-<?php echo get_new_royalslider(1); ?>
+<?php echo get_new_royalslider(2); ?>
 <!-- 	<div class="header-img">
 		<img src="http://goldsboroughcricketclub.co.uk/wp-content/themes/gcc/images/goldsborough-cricket-club-1170.jpg" alt="goldsborough cricket club">
 	</div> -->
